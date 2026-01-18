@@ -1,7 +1,6 @@
-=============================================
-PROJET ALGORITHMIQUE AVANCÉE - SCÉNARIO 2
-Graphes et Image (Dijkstra et modélisation)
-=============================================
+
+# Graphes et Image (Dijkstra et modélisation)
+
 
 Auteur : SAIFIDINE Dayar
 Date : Décembre 2025
